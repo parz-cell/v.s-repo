@@ -16,7 +16,7 @@
 </addons>
 <addon id="plugin.video.ace"
        name="[COLOR orange]ACE[/COLOR]"
-       version="0.1"
+       version="1.0.1"
        provider-name="V.S.S">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
