@@ -13,7 +13,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
+
 <addon id="plugin.video.ace"
        name="[COLOR orange]ACE[/COLOR]"
        version="1.0.1"
@@ -50,4 +50,5 @@
     <platform>all</platform>
   </extension>
 </addon>
+</addons>
 
